@@ -15,7 +15,7 @@
 # in the templates via {{ site.myvariable }}.
 title: WTF?
 email: admin@emersonalmeida.wtf
-description:
+description: ""
 baseurl: "/hitchens" # the subpath of your site, e.g. /blog
 url: "https://patdryburgh.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 icon: /assets/images/icon-512.png
